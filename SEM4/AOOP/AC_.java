@@ -1,6 +1,6 @@
 //Write a program that reads an integer between 0 and 1000 and adds all the digits in integer. For example if an integer is 931 then sum is 13.
 import java.util.Scanner;
- public class AE_mid{
+ public class AC_{
      public static void main(String[] args) {
      Scanner sc = new Scanner(System.in);
      System.out.println("Enter number between 0 and 1000");
