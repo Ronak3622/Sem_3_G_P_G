@@ -22,3 +22,14 @@ public class AA_Greatest_of_three {
 
     }
 } 
+
+/*
+OUTPUT :-
+Enter first number
+10
+Enter secound  number
+20
+Enter third number
+30
+C is greater
+*/
