@@ -1,3 +1,4 @@
+// Write a program in JAVA to find maximum of three numbers using conditional operator.
 import java.util.Scanner;
 public class AA_Greatest_of_three {
     public static void main(String[] args) {
