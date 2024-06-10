@@ -1,3 +1,5 @@
+--- DDL COMMANDS
+
 --- TO CREATE TABLE 
 CREATE TABLE test_table 
 (
@@ -26,6 +28,8 @@ DROP COLUMN student_father;
 --- TO DELETE TABLE
 DROP TABLE test_table;
 
+--- DML COMMAND
+
 --- TO INSERT VALUES
 INSERT INTO test_table
      VALUES (01,'Ronak','DAHOD',111,'MANUBHAI');
@@ -44,3 +48,12 @@ WHERE student_id = 01;
 
 --- TO DELETE TABLE
 DELETE FROM test_table;
+
+--- TCL COMMAND
+COMMIT; --- TO SAVE TERMPORY TO PERMENET
+ROLLBACK; ---  
+SAVEPOINT;
+
+---DCL COMMAND
+GRANT;
+REVOKE:
